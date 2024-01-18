@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @TaneliNH
+- 👋 Hi, I’m Taneli Heikkilä (@TaneliNH), a second-year student at Oulu University of Applied Sciences. 
+
 
 <!---
 TaneliNH/TaneliNH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
