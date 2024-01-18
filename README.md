@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Taneli Heikkilä (@TaneliNH), a second-year student at Oulu University of Applied Sciences. 
+- 👋 Hi, I’m Taneli Heikkilä (@TaneliNH), a second-year student pursuing a degree in Computer Engineering at Oulu University of Applied Sciences. 
 
 
 <!---
