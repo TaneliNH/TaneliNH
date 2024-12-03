@@ -1,6 +1,6 @@
-# Taneli Heikkilä
+# Taneli Lesell
 
-Hello! I'm Taneli Heikkilä, a second-year student pursuing a degree in Computer Engineering at Oulu University of Applied Sciences.
+Hello! I'm Taneli Lesell, a second-year student pursuing a degree in Computer Engineering at Oulu University of Applied Sciences.
 
 ## Academic Information
 
